@@ -23,13 +23,13 @@
 }
 #NavigationBar {
     color: black;
-    background-color: white;
-    width: 50px;
+    background-color: black;
+    width: 100px;
     height: 20px;
     opacity: 0.9;
-    margin: auto,auto;
+    margin: auto;
     display: block;
-    position:absolute;
+    position: relative;
 }
 #MiddleColumn {
     background-color:grey;
