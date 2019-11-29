@@ -1,0 +1,11 @@
+﻿#ProfileImage{
+	width:300px;
+	height:300px;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+#BioText{
+	padding-left:10%;
+	padding-right:10%;
+}
