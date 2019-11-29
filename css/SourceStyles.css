@@ -11,7 +11,7 @@ button{
 }
 
 #disabledButton{
-	opacity: 0.6;
+	background-color:#808080;
 	cursor: not-allowed;
 }
 
@@ -43,7 +43,22 @@ button{
 	margin-left:auto;
 	margin-right:auto;
 }
+
+#RightColumn{
+	width:35%;
+	height:100%;
+	display:block;
+	background-image: linear-gradient(to right, white , grey);
+}
+#LeftColumn{
+	width:35%;
+	height:100%;
+	display:inline-block;
+	background-image: linear-gradient(to left, white , grey);
+}
+
 #MiddleColumn {
+	display:block;
     background-color:grey;
     width:30%;
     height:100%;
